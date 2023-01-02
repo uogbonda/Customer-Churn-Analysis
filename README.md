@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis
 
-#### Microsoft Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=h7rA8Q
+#### Microsoft Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=IkwdZ3
 
 # Customer Churn Analysis of MR Company GmbH
 MF Company is a telecommunication company that provides TechSupport as well. Customersare either StreamingTV or StreamingMovies.
@@ -18,8 +18,7 @@ MF Company GmbH needed to know:
 * The number churned customers from the 3 contracts offered with payment methods.
 * For the monthly charges, where did the highest churn rate come from( create a group for better understanding).
 
-Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=h7rA8Q
-
+Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=IkwdZ3
 
 ## Technologies
 Project performed on:
