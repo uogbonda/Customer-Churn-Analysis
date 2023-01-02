@@ -33,4 +33,4 @@ From the analysis performed, these were the findings. The total number of custom
 
 #### Excel Dashboard:
 
-![](German%20dev%20Stackflow/agedist.png)
+![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MF%20Company%20GmbH%20presentation-1.png)
