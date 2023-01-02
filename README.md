@@ -31,6 +31,6 @@ Project performed on:
 From the analysis performed, these were the findings. The total number of customers was **7,043** initially. Then **1,849 churned**. This dashboard gives more insight and behaviour of churned customers with respect to contract, payment method, gender etc.
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MRR_based_churned_MF_company.jpg)
 
-The age data visualization is below:
+#### Excel Dashboard:
 
 ![](German%20dev%20Stackflow/agedist.png)
