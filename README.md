@@ -36,6 +36,11 @@ From the analysis performed, these were the findings. The total number of custom
 From the findings. The percentage of male and female customers not using paperless billing but still churned were **16%** and **17%** respectively. Then **34% churned** which used paperless billing system for both gender. 
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/paperbilling.png)
 
+
+### Analysis personal life of Customers
+From the findings, customers with partners and dependents were **1749** and customers without partners or dependents were **361**.
+![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/partners_dependents.png)
+
 #### Excel Dashboard:
 
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MF%20Company%20GmbH%20presentation-1.png)
