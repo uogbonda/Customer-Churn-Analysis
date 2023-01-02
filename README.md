@@ -3,7 +3,7 @@
 #### Microsoft Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=h7rA8Q
 
 # Customer Churn Analysis of MR Company GmbH
-Exploring the ASOS information on female fast sells wears.
+MF Company is a telecommunication company that provides TechSupport as well. Customersare either StreamingTV or StreamingMovies.
 
 ## Table of Content
 * [General info](#general-info)
@@ -29,6 +29,11 @@ Project performed on:
 
 #### The MRR of Customers
 From the analysis performed, these were the findings. The total number of customers was **7,043** initially. Then **1,849 churned**. This dashboard gives more insight and behaviour of churned customers with respect to contract, payment method, gender etc.
+![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MRR_based_churned_MF_company.jpg)
+
+
+#### Paperless Billing of Customers
+From the findings. The percentage of male and female customers not using paperless billing but still churned were **16%** and **17%** respectively. Then **34% churned** which used paperless billing system for both gender. 
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MRR_based_churned_MF_company.jpg)
 
 #### Excel Dashboard:
