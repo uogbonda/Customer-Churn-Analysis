@@ -42,4 +42,4 @@ From the findings, customers with partners and dependents were **1749** and cust
 
 #### Excel Dashboard:
 
-![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MF%20Company%20GmbH%20presentation-1.png)
+![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MF%20Company%20GmbH%20new-1.png)
