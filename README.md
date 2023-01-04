@@ -7,7 +7,8 @@ MF Company is a telecommunication company that provides TechSupport as well. Cus
 
 ## Table of Content
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technology](#technology)
+* [Visualizations](#visualizations)
 * [Excel Dashboard](#excel_dashboard)
 
 ## General info
@@ -24,7 +25,9 @@ Excel Dashboard: https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=IkwdZ3
 Project performed on:
 * Microsoft Excel.
 * Field Calculation for the Churn Flag and Churn rate.
-* Pivot tables.
+* Pivot tables.4
+
+## Visualizations
 
 #### Customer Lifetime Value
  The average time for someone being a customer is 4 months. But when we group these customers into their respective contracts, we get the lifetime value for each contract.
