@@ -26,6 +26,11 @@ Project performed on:
 * Field Calculation for the Churn Flag and Churn rate.
 * Pivot tables.
 
+#### Customer Lifetime Value
+ The average time for someone being a customer is 4 months. But when we group these customers into their respective contracts, we get the lifetime value for each contract.
+ ![image]( https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/CLV.png)
+ 
+
 #### The MRR of Customers
 From the analysis performed, these were the findings. The total number of customers was **7,043** initially. Then **1,849 churned**. This dashboard gives more insight and behaviour of churned customers with respect to contract, payment method, gender etc.
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MRR_based_churned_MF_company.jpg)
