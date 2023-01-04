@@ -8,7 +8,7 @@ MF Company is a telecommunication company that provides TechSupport as well. Cus
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Excel_Dashboard](#excel_dashboard)
+* [Excel Dashboard](#excel_dashboard)
 
 ## General info
 MF Company GmbH needed to know:
