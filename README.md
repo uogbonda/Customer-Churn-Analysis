@@ -8,7 +8,7 @@ MF Company is a telecommunication company that provides TechSupport as well. Cus
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [SQL + Python](#sql-+-python)
+* [Excel_Dashboard](#excel_dashboard)
 
 ## General info
 MF Company GmbH needed to know:
@@ -45,6 +45,8 @@ From the findings. The percentage of male and female customers not using paperle
 From the findings, customers with partners and dependents were **1749** and customers without partners or dependents were **361**.
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/partners_dependents.png)
 
-#### Excel Dashboard:
+## Excel Dashboard:
+An interactive dashboard was created in Excel. There is a link to explore the dashboard.
+This is the link :  https://1drv.ms/x/s!AqILc_aQJiykhm9xnRPZjiiJct-M?e=IkwdZ3
 
 ![image](https://github.com/uogbonda/Customer-Churn-Analysis/blob/main/MF%20Company%20GmbH%20new-1.png)
